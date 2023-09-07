@@ -1,4 +1,4 @@
-# INF549
+# DSCI549
 Introduction to Computational Thinking and Data Science
 
 ## Using the notebooks for your homework
